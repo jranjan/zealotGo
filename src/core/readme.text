@@ -1,0 +1,16 @@
+This section captures usage of small functional code which can be handy
+for day-to-day activities.
+Some examples are:
+
+    - Example of unit test code
+    - Example of code coverage
+    - Example of http lib
+    - Example of packaging
+
+As we make progress, we will update the top-level directory and its purpose.
+
+===============================================================================
+Details of folders
+===============================================================================
+
+go-test: code related to testing.
