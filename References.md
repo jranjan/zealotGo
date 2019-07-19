@@ -1,3 +1,3 @@
 # Go testing
 
-[Unit test case](https://blog.alexellis.io/golang-writing-unit-tests/)
+* [Basic unit testing](https://blog.alexellis.io/golang-writing-unit-tests/)
