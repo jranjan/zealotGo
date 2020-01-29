@@ -14,8 +14,5 @@ repo is not to distribute licensed code in any means and is solely
 meant for learning purpose.
 
 
-# References
 
-### Go testing
 
-[Unit test case](https://blog.alexellis.io/golang-writing-unit-tests/)
